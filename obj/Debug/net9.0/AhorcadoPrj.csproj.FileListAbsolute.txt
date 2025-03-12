@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\bin\Debug\net9.0\AhorcadoPrj.exe
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\bin\Debug\net9.0\AhorcadoPrj.deps.json
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\bin\Debug\net9.0\AhorcadoPrj.runtimeconfig.json
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\bin\Debug\net9.0\AhorcadoPrj.dll
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\bin\Debug\net9.0\AhorcadoPrj.pdb
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\AhorcadoPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\AhorcadoPrj.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\AhorcadoPrj.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\AhorcadoPrj.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\AhorcadoPrj.dll
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\refint\AhorcadoPrj.dll
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\AhorcadoPrj.pdb
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\AhorcadoPrj.genruntimeconfig.cache
+C:\Users\ASUS\Documents\Works\S5\Program II\AhorcadoPrj\obj\Debug\net9.0\ref\AhorcadoPrj.dll
