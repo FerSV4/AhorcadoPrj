@@ -90,6 +90,7 @@ public class Ahorcado
         {
             Console.Clear();
             Console.WriteLine("Palabra: " + PalabraActual.Mostrar());
+            Console.WriteLine("Recuerda!, a los 5 intentos incorrectos eres ahorcado :O");
             Console.WriteLine("Incorrectas: " + Jugador.Intentoincorrecto);
             Console.Write("Ingresar letra: ");
             char letra = Console.ReadKey().KeyChar;
@@ -122,8 +123,8 @@ class Program
             "universidad",
             "catolica",
             "boliviana",
-            "san",
-            "pablo"
+            "internacional",
+            "investigacion"
         };
 
         Ahorcado juego = new Ahorcado(palabras);
